@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nandinimenon/Desktop/Personal-Projects/Personal-Projects/Machine%20Learning%20Projects/ML-OPs/ML%20Flow/mlruns/172839444611873280/4768a6f9d26d4a438218805e3e87d14e/artifacts
+end_time: 1758693776254
+entry_point_name: ''
+experiment_id: '172839444611873280'
+lifecycle_stage: active
+run_id: 4768a6f9d26d4a438218805e3e87d14e
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758693773288
+status: 3
+tags: []
+user_id: nandinimenon

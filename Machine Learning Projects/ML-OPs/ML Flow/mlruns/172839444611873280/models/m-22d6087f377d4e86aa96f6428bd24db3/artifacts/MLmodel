@@ -1,0 +1,22 @@
+artifact_path: file:///Users/nandinimenon/Desktop/Personal-Projects/Personal-Projects/Machine%20Learning%20Projects/ML-OPs/ML%20Flow/mlruns/172839444611873280/models/m-22d6087f377d4e86aa96f6428bd24db3/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.6
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 2.1.4
+mlflow_version: 3.1.4
+model_id: m-22d6087f377d4e86aa96f6428bd24db3
+model_size_bytes: 137636
+model_uuid: m-22d6087f377d4e86aa96f6428bd24db3
+prompts: null
+run_id: f29d7304733c44fdbebe8f2124f87e91
+utc_time_created: '2025-09-24 06:03:01.924550'
