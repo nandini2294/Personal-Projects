@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nandinimenon/Desktop/Personal-Projects/Personal-Projects/Machine%20Learning%20Projects/ML-OPs/ML%20Flow/mlruns/680615992348424241/4c095ad2cebc4d9690b7b91dec7aa903/artifacts
+end_time: 1758694799308
+entry_point_name: ''
+experiment_id: '680615992348424241'
+lifecycle_stage: active
+run_id: 4c095ad2cebc4d9690b7b91dec7aa903
+run_name: XGBClassifier With SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758694425237
+status: 3
+tags: []
+user_id: nandinimenon

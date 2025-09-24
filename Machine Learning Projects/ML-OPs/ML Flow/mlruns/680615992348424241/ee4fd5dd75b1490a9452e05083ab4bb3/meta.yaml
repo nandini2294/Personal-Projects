@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nandinimenon/Desktop/Personal-Projects/Personal-Projects/Machine%20Learning%20Projects/ML-OPs/ML%20Flow/mlruns/680615992348424241/ee4fd5dd75b1490a9452e05083ab4bb3/artifacts
+end_time: 1758694425219
+entry_point_name: ''
+experiment_id: '680615992348424241'
+lifecycle_stage: active
+run_id: ee4fd5dd75b1490a9452e05083ab4bb3
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758694422411
+status: 3
+tags: []
+user_id: nandinimenon

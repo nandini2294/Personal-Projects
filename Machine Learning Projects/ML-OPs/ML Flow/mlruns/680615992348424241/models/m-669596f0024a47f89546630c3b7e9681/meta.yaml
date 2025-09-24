@@ -1,0 +1,10 @@
+artifact_location: file:///Users/nandinimenon/Desktop/Personal-Projects/Personal-Projects/Machine%20Learning%20Projects/ML-OPs/ML%20Flow/mlruns/680615992348424241/models/m-669596f0024a47f89546630c3b7e9681/artifacts
+creation_timestamp: 1758694425341
+experiment_id: '680615992348424241'
+last_updated_timestamp: 1758694427990
+model_id: m-669596f0024a47f89546630c3b7e9681
+model_type: ''
+name: model
+source_run_id: 4c095ad2cebc4d9690b7b91dec7aa903
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nandinimenon/Desktop/Personal-Projects/Personal-Projects/Machine%20Learning%20Projects/ML-OPs/ML%20Flow/mlruns/680615992348424241/2e022e061e9b46cbb922625212d0d831/artifacts
+end_time: 1758694422394
+entry_point_name: ''
+experiment_id: '680615992348424241'
+lifecycle_stage: active
+run_id: 2e022e061e9b46cbb922625212d0d831
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758694420063
+status: 3
+tags: []
+user_id: nandinimenon
